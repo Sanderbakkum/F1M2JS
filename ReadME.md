@@ -24,3 +24,17 @@ Make a Scene = Afgetekend<br/>
 <br/>
 
 Les3o:<br/>
+Ik weet niet hoe de opdracht heet = niet afgetekend<br/>
+
+Les4:<br/>
+Meet the dom = afgetekend<br/>
+Take Control = niet afgetekend <br/>
+
+<br/>
+
+Les4o:<br/>
+Web Xr master = niet af<br/>
+<br/>
+
+Les5:<br/>
+Scroll on me = Afgetekend
